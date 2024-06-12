@@ -38,11 +38,11 @@ const About = () => {
               </div>
             </article>
 
-            <article className="about_card">
+            {/* <article className="about_card">
               <TfiWorld className="about_icon" />
               <h5> Location</h5>
               <small>Adress...</small>
-            </article>
+            </article> */}
             <article className="about_card">
               <BsTelephoneForward className="about_icon" />
               <h5> Contact </h5>

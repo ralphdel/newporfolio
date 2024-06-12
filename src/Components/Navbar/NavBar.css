@@ -34,3 +34,12 @@ nav a.active{
   background: var(--color-primary);
   color:var(--color-bg);
 }
+
+/* Media query for smaller device*/
+
+@media screen and (max-width:600px) {
+  nav{
+gap: 0.5rem;
+left: 40%;
+  }
+}
