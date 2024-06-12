@@ -53,24 +53,43 @@ cursor: default;
 
  
   .experience_container>div{
-    width: 80%;
-    padding: 2rem;
+    width: 100%;
+    padding: 2rem 2.5rem; 
   
   }
   .experience_content{
+    grid-template-columns: 1fr;
     padding: 0.5rem;
   }
 
   .experience_detail{
-    display: flex;
-    gap: .5rem;
+    gap: 1rem
   }
 }
 
 
 @media screen and (max-width:600px) {
   .experience_container>div{
-    margin: 1.4rem;
+    padding: 1.5rem;
 
   }
+
+  .experience_content{
+    grid-template-columns: 1fr;
+    padding: 1rem;
+  }
+
+  .experience_detail {
+    gap: 1rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .experience_icon {
+    margin-top: 0;
+    height: 30px;
+    width: 30px;
+  }
+
+
 }
