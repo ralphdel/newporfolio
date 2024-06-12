@@ -55,6 +55,7 @@ header{
  /***Scroll*/
 
  .scroll_down{
+  display: flex;
   position: absolute;
   right: -2.3rem;
   bottom: 5rem;
@@ -75,7 +76,7 @@ header{
    header{
      height: 100vh;
    }
-   .home_social, .scroll_dowm{
+   .home_social, .scroll_down{
     display: none;
    }
 
