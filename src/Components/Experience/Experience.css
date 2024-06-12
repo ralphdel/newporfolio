@@ -9,6 +9,8 @@
 
 .experience_container>div{
   background: var(--color-bg-variant);
+  display: grid;
+  width: 100%;
   padding: 2.4rem 5rem;
   border-radius: 2rem;
   border: 1px solid transparent;
@@ -62,5 +64,13 @@ cursor: default;
   .experience_detail{
     display: flex;
     gap: .5rem;
+  }
+}
+
+
+@media screen and (max-width:600px) {
+  .experience_container>div{
+    margin: 1.4rem;
+
   }
 }

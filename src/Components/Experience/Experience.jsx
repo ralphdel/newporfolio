@@ -47,7 +47,7 @@ const Experience = () => {
             <img src={javasImg} alt="JS" className="experience_icon" />
             <div>
               <h4>
-                JavaScript
+                Java<br />Script
               </h4>
             </div>
           </article>
@@ -55,7 +55,7 @@ const Experience = () => {
             <img src={typeImg} alt="TS" className="experience_icon" />
             <div>
               <h4>
-                TypeScript
+                Type<br />Script
               </h4>
             </div>
           </article>
@@ -123,7 +123,7 @@ const Experience = () => {
             <img src={postimg} alt="postman" className="experience_icon" />
             <div>
               <h4>
-               Postman
+               Post<br />man
               </h4>
             </div>
           </article>
