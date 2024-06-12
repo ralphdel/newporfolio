@@ -27,13 +27,13 @@ const Home = () => {
           </a>
         </div>
         <div className="home_social">
-          <a href="">
+          <a href="linkedin.com/in/ayodele-rapheal-ojo-17426b12b">
             <BsLinkedin />
           </a>
-          <a href="">
+          <a href="https://github.com/ralphdel">
             <BsGithub />
           </a>
-          <a href="">
+          <a href="https://medium.com/@ralphynose">
             <BsMedium />
           </a>
         </div>

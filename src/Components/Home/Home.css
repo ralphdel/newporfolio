@@ -19,7 +19,7 @@ header{
 
 /*social*/
 .home_social{
-  display: flex;
+  display:flex;
   flex-direction: column;
   align-items: center;
   gap:0.8rem;
@@ -85,6 +85,5 @@ header{
    }
    .me>img{
     margin-top: 2.5rem;
-    width: 50px;
    }
  }

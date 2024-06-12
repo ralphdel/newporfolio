@@ -18,12 +18,12 @@ const Project = () => {
           <small className="text-light"> MERN Stack</small>
           <div className="project_item_btn">
             <div>
-              <a href="" className="btn project_btn">
+              <a href="https://github.com/ralphdel/contactmanagingsytem_client" className="btn project_btn">
                 Github
               </a>
             </div>
             <div>
-              <a href="" className="btn project_btn">
+              <a href="https://ralphcontactms.vercel.app/" className="btn project_btn">
                 Live Demo
               </a>
             </div>
@@ -37,12 +37,12 @@ const Project = () => {
           <small className="text-light"> HTML JS CSS</small>
           <div className="project_item_btn">
             <div>
-              <a href="" className="btn project_btn">
+              <a href="https://github.com/Olori-Odo/First_Project" className="btn project_btn">
                 Github
               </a>
             </div>
             <div>
-              <a href="" className="btn project_btn" >
+              <a href="https://dmrecipe.netlify.app/" className="btn project_btn" >
                 Live Demo
               </a>
             </div>
@@ -57,12 +57,12 @@ const Project = () => {
           <small className="text-light"> HTML JS CSS</small>
           <div className="project_item_btn">
             <div>
-              <a href="" className="btn project_btn">
+              <a href="https://github.com/ralphdel/Myfirstwebsite" className="btn project_btn">
                 Github
               </a>
             </div>
             <div>
-              <a href="" className="btn project_btn">
+              <a href="https://ralphayodele.vercel.app/" className="btn project_btn">
                 Live Demo
               </a>
             </div>
